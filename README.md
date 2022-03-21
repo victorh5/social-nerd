@@ -17,6 +17,14 @@
 - Quero compor um bom Portfólio para mim, e no final compartilhar com a Comunidade... Fins de estudos também, com o intuito de no futuro começar um canal sobre Vuejs.
 - Com os projetos que eu for criando planejo linkar todos em um site pessoal que irei produzir também em VueJS.
 
+## Feature SN-1: Página de Bem-Vindo
+
+[] - Baixar todos os assets.
+[] - Configurar ambiente.
+[] - Realizar o esqueleto da página.
+[] - Realizar o CSS da página.
+[] - Realizar os testes.
+
 # Autor
 
 - [Victor Hugo](https://www.linkedin.com/in/victorh5/)
