@@ -19,11 +19,11 @@
 
 ## Feature SN-1: Página de Bem-Vindo
 
-[X] - Baixar todos os assets da página.
-[X] - Configurar ambiente.
-[X] - Realizar o esqueleto da página.
-[X] - Realizar o CSS da página.
-[X] - Realizar os testes.
+- [X] Baixar todos os assets da página.
+- [X] Configurar ambiente.
+- [X] Realizar o esqueleto da página.
+- [X] Realizar o CSS da página.
+- [X] Realizar os testes.
 
 # Autor
 
