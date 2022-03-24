@@ -1,8 +1,9 @@
 <script setup lang="ts">
 import Header from '../components/Header.vue'
+import router from '../router'
 
 function register() {
-  console.log('Está clicando no botão de registre-se')
+  router.push({name: 'Register'})
 }
 function login() {
   console.log('Está clicando no botão de entrar')
@@ -25,7 +26,7 @@ function login() {
     </div>
 
     <div class="mt-16 text-white font-semibold text-xs">
-      <button class="block rounded-lg bg-default-purple w-full py-2.5 mb-2.5" @click="register">Registre-se</button>
+      <button class="block rounded-lg bg-default-purple w-full py-2.5 mb-2.5" @click="register">Cadastre-se</button>
       <button class="block rounded-lg bg-default-gray w-full py-2.5" @click="login">Entrar</button>
     </div>
   </div>
