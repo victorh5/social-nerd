@@ -13,7 +13,9 @@ module.exports = {
       },
       colors: {
         'default-purple': '#9B82E7',
-        'default-gray': '#ABABAB'
+        'default-gray': '#ABABAB',
+        'light-gray': '#B3B3B3',
+        'description-gray': '#808080'
       }
     },
   },
