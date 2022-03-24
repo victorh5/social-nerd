@@ -27,13 +27,13 @@
 
 ## Feature SN-2: Página de Registro de Usuário
 
-- [] Colocar no README PROTÓTIPO DO PROJETO (IMAGENS).
+- [ ] Colocar no README PROTÓTIPO DO PROJETO (IMAGENS).
 - [X] Baixar Assets para página de Registro (se necessário).
 - [X] Realizar o esqueleto da página.
 - [X] Realizar o CSS da página.
-- [] Realizar os testes da página.
+- [ ] Realizar os testes da página.
 - [X] Integrar botão de Registre-se da Home com a Página de Registro.
-- [] Realizar o teste do botão de registre para verificar se redireciona para página de registro.
+- [ ] Realizar o teste do botão de registre para verificar se redireciona para página de registro.
 
 # Autor
 
