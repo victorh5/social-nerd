@@ -29,10 +29,10 @@
 
 - [] Colocar no README PROTÓTIPO DO PROJETO (IMAGENS).
 - [X] Baixar Assets para página de Registro (se necessário).
-- [] Realizar o esqueleto da página.
-- [] Realizar o CSS da página.
+- [X] Realizar o esqueleto da página.
+- [X] Realizar o CSS da página.
 - [] Realizar os testes da página.
-- [] Integrar botão de Registre-se da Home com a Página de Registro.
+- [X] Integrar botão de Registre-se da Home com a Página de Registro.
 - [] Realizar o teste do botão de registre para verificar se redireciona para página de registro.
 
 # Autor
