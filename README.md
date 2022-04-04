@@ -25,6 +25,17 @@
 - [X] Realizar o CSS da página.
 - [X] Realizar os testes.
 
+## Feature SN-2: Página de Registro de Usuário
+
+- [X] Baixar Assets para página de Registro (se necessário).
+- [X] Realizar o esqueleto da página.
+- [X] Realizar o CSS da página.
+- [X] Integrar botão de Registre-se da Home com a Página de Registro.
+
+## PARALELO
+
+- [X] Dar deploy do projeto na VERCEL.
+
 # Autor
 
 - [Victor Hugo](https://www.linkedin.com/in/victorh5/)
