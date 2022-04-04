@@ -35,6 +35,10 @@
 - [X] Integrar botão de Registre-se da Home com a Página de Registro.
 - [ ] Realizar o teste do botão de registre para verificar se redireciona para página de registro.
 
+## PARALELO
+
+- [X] Dar deploy do projeto na VERCEL.
+
 # Autor
 
 - [Victor Hugo](https://www.linkedin.com/in/victorh5/)
