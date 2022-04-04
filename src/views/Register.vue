@@ -21,7 +21,7 @@ const userRegistrationInfo = (data: UserType) => {
 <template>
   <Header />
   <div class="container mx-auto px-8">
-    <img src="../assets/astronauta-register.svg" alt="Astronauta Página Registro" class="mx-auto">
+    <img src="../assets/register-astronaut.svg" alt="Astronauta Página Registro" class="mx-auto">
     <p class="text-center mb-4 text-description-gray font-semibold text-xs">Crie já a sua conta e acesse um novo mundo</p>
     <RegisterForm @catchInfo="userRegistrationInfo" />
     <RegisterActions :user-information="userInformation" />

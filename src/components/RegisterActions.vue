@@ -23,7 +23,7 @@ const props = defineProps({
 </script>
 
 <template>
-  <div class="text-white font-semibold text-xs">
+  <div class="py-8 text-white font-semibold text-xs">
       <button class="block rounded-lg bg-default-purple w-full py-2.5 mb-2.5" @click="userRegistration">Confirmar Cadastro</button>
       <button class="block rounded-lg bg-default-gray w-full py-2.5" @click="alreadyHaveAccount">Já tenho uma conta</button>
     </div>

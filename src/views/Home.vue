@@ -15,10 +15,10 @@ function login() {
   <div class="container mx-auto px-8">
 
     <div class="flex justify-between relative top-[50px]">
-      <img src="../assets/astronauta-jab.svg" alt="Astronauta Jab">
-      <img src="../assets/dois-astronautas.svg" alt="Dois Astronautas">
+      <img src="../assets/jab-astronaut.svg" alt="Astronauta Jab">
+      <img src="../assets/two-astronauts.svg" alt="Dois Astronautas">
     </div>
-    <img src="../assets/astronauta-sentado.svg" alt="Astronauta Sentado" class="block mx-auto">
+    <img src="../assets/sitdown-astronaut.svg" alt="Astronauta Sentado" class="block mx-auto">
 
     <div class="font-semibold text-center">
       <h1 class="text-xl text-[#323232]">Bem-vindo(a) ao SOCIALNERD</h1>

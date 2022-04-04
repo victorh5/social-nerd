@@ -6,12 +6,14 @@ let user = ref({} as UserType)
 const emit = defineEmits(['catchInfo'])
 const sendInformation = () => {
   emit('catchInfo', user.value)
+
 }
 </script>
 
 <template>
   <input 
     v-model="user.name"
+    maxlength="50"
     placeholder="Nome"
     class="border-[3px] border-default-purple focus:outline-none rounded-lg py-3 px-4 w-full mb-[13px] text-xs text-light-gray placeholder:text-light-gray placeholder:text-xs"
     :onblur="sendInformation"
@@ -19,6 +21,7 @@ const sendInformation = () => {
   <input 
     v-model="user.nickname"
     placeholder="Apelido"
+    maxlength="25"
     class="border-[3px] border-default-purple focus:outline-none rounded-lg py-3 px-4 w-full mb-3 text-xs text-light-gray placeholder:text-light-gray placeholder:text-xs"
     :onblur="sendInformation"
   >
@@ -34,6 +37,7 @@ const sendInformation = () => {
     placeholder="E-mail"
     class="border-[3px] border-default-purple focus:outline-none rounded-lg py-3 px-4 w-full mb-3 text-xs text-light-gray placeholder:text-light-gray placeholder:text-xs"
     :onblur="sendInformation"
+    maxlength="50"
   >
   <input 
     v-model="user.password"
@@ -41,6 +45,7 @@ const sendInformation = () => {
     placeholder="Senha"
     class="border-[3px] border-default-purple focus:outline-none rounded-lg py-3 px-4 w-full mb-3 text-xs text-light-gray placeholder:text-light-gray placeholder:text-xs"
     :onblur="sendInformation"
+    maxlength="8"
   >
   <input 
     v-model="user.passwordConfirmation"
@@ -48,5 +53,6 @@ const sendInformation = () => {
     placeholder="Confirmação da senha"
     class="border-[3px] border-default-purple focus:outline-none rounded-lg py-3 px-4 w-full mb-2 text-xs text-light-gray placeholder:text-light-gray placeholder:text-xs"
     :onblur="sendInformation"
+    maxlength="8"
   >
 </template>
