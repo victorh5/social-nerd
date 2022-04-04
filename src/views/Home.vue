@@ -22,7 +22,7 @@ function login() {
 
     <div class="font-semibold text-center">
       <h1 class="text-xl text-[#323232]">Bem-vindo(a) ao SOCIALNERD</h1>
-      <p class="text-[#808080] text-xs mt-2">Junte-se a mais de 100 milhões de pessoas que usam o SOCIALNERD para conversar com seus amigos e comunidade</p>
+      <p class="text-description-gray text-xs mt-2">Junte-se a mais de 100 milhões de pessoas que usam o SOCIALNERD para conversar com seus amigos e comunidade</p>
     </div>
 
     <div class="py-16 text-white font-semibold text-xs">

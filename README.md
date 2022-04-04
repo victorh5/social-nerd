@@ -36,6 +36,16 @@
 
 - [X] Dar deploy do projeto na VERCEL.
 
+## Feature SN-3: Página de Login
+
+- [X] Baixar Assets para página de Login - MOBILE (se necessário).
+- [ ] Baixar Assets para página de Login - DESKTOP (se necessário).
+- [X] Realizar esqueleto da página.
+- [X] Realizar CSS da página mobile.
+- [ ] Realizar CSS da página desktop.
+- [ ] Fazer a versão desktop da página login de acordo com figma.
+- [ ] Integrar botão de login, com a home e página de cadastro.
+
 # Autor
 
 - [Victor Hugo](https://www.linkedin.com/in/victorh5/)
