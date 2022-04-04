@@ -24,7 +24,7 @@ function login() {
       <p class="text-[#808080] text-xs mt-2">Junte-se a mais de 100 milhões de pessoas que usam o SOCIALNERD para conversar com seus amigos e comunidade</p>
     </div>
 
-    <div class="mt-16 text-white font-semibold text-xs">
+    <div class="py-16 text-white font-semibold text-xs">
       <button class="block rounded-lg bg-default-purple w-full py-2.5 mb-2.5" @click="register">Registre-se</button>
       <button class="block rounded-lg bg-default-gray w-full py-2.5" @click="login">Entrar</button>
     </div>
